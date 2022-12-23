@@ -5,16 +5,6 @@ x
 Hsrc/main/java/com/example/sweater/controller/RegistrationController.java,e\2\e2383ae4b4b27dc27691a2a94b8f2b23fe39ec08
 e
 5src/main/java/com/example/sweater/repos/UserRepo.java,7\8\789dd6c8ef54070d85d30ed71d69a90c52765a43
-g
-7src/main/java/com/example/sweater/config/MvcConfig.java,9\6\96bece51d0615073669c0583f09f35d7273c1cad
-o
-?src/main/java/com/example/sweater/config/WebSecurityConfig.java,8\c\8c2b5f64bdb0951e85d01cabb0d22e9a88c13d87
-b
-2src/main/java/com/example/sweater/domain/Role.java,e\7\e7af4385911c539c64f25ac8a5b14a8743235050
-b
-2src/main/java/com/example/sweater/domain/User.java,e\3\e3030c884107f97d6c93ba1f80d9b9a5b5db9c4a
-e
-5src/main/java/com/example/sweater/domain/Message.java,d\d\dd24e93eac953750d6a68ea5e6b3682ae14f271e
 j
 :src/main/java/com/example/sweater/service/UserService.java,1\7\174708d8517a59ab57bf70de28a417e30836ae6a
 :
