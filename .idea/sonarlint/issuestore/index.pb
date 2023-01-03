@@ -10,5 +10,3 @@ j
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-b
-2src/main/java/com/example/sweater/Application.java,f\1\f16eb2c1a5b2153e9c6fc131a60e9948f24bbea3
